@@ -527,7 +527,6 @@
     [iv setImage:[UIImage imageNamed:@"selecting-vr_00000"]];
 }
 
-
 //模拟点击事件
 - (void)tapTimeAction
 {
