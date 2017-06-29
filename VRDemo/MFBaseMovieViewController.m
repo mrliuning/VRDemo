@@ -25,7 +25,6 @@
 
 #define MENU_ZAN         @"MENU_ZAN"
 #define TIMER_FPS   4
-
 #define TAG_ANIMATION_KEY   @"animation_key"
 
 
