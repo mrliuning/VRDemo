@@ -18,7 +18,7 @@
 #define SCENE_R 200
 #define SCENE_SIZE  2048
 #define CAMERA_FOX  70             //50
-#define CAMERA_HEIGHT   20          //20
+#define CAMERA_HEIGHT   20        //20
 #define GROUND_POS  -50
 #define ScreenWidth [UIScreen mainScreen].bounds.size.width
 #define ScreenHeight [UIScreen mainScreen].bounds.size.height
